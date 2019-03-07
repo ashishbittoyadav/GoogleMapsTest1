@@ -26,6 +26,10 @@ import com.google.android.gms.location.LocationRequest;
 import com.google.android.gms.location.LocationResult;
 import com.google.android.gms.tasks.Task;
 
+/**
+ * @version 1.0
+ * created by Ashish Yadav 07-03-2019
+ */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private static final String TAG = "MainActivity";
